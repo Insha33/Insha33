@@ -24,7 +24,7 @@ I made the website for exploring new stuff and see where my interests are.
 
 ---
 
-[website]: insha735325119.wordpress.com
+[website]: https://insha33.github.io/portfolio/
 [instagram]: https://www.instagram.com/insha.___63
 
 
